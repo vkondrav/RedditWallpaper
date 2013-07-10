@@ -106,7 +106,7 @@ public class Runner implements Runnable{
 	       do{
 	           t1 = System.currentTimeMillis();
 	       }
-	       while ((t1 - t0) < (n * 1000));
+	       while ((t1 - t0) < (n * 1000 * 60));
 	   }
 
 }
