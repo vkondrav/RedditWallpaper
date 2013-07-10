@@ -53,7 +53,7 @@ public class Runner implements Runnable{
 						   JSONObject value = children.getJSONObject(0).getJSONObject("data");
 						   //after = (String) children.getJSONObject(0).getString("kind")+"_"+value.getString("id");
 						   System.out.println("domain: "+value.getString("domain")+" url: "+value.getString("url"));
-						   if ((value.getString("domain").equals("imgur.com")&& !value.getString("url").contains("/a/"))||value.getString("url").contains(".jpg")||value.getString("url").contains(".png")){
+						   if ((value.getString("domain").equals("imgur.com")&& !value.getString("url").contains("/a/"))||value.getString("url").contains(".jpg")||value.getString("url").contains(".jpeg")||value.getString("url").contains(".png")){
 							   String image = value.getString("url");
 							   if (value.getString("domain").equals("imgur.com")&& !image.contains(".jpg")){
 								   if (image.contains(",")){
