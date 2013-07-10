@@ -16,7 +16,7 @@ In all likely-hood you will already have Java installed and it will automaticall
 
 The program itself is pretty straight forward to use. In the top box you can enter the name of any subreddit, or combinations of subreddits joined with a +.
 
-The second box is the folder in which all the wallpapers will be downloaded to, please make sure this folder exists if the program is told to run but does nothing.
+The second box is the folder in which all the wallpapers will be downloaded to, **please make sure this folder exists** if the program is told to run but does nothing.
 
 The two dropdown boxes work much like the browsing modes on reddit do.
 
