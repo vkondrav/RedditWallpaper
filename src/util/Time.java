@@ -1,3 +1,3 @@
 package util;
 
-public enum Time {HOURLY, DAILY, WEEKLY, MONTHLY, YEARLY, ALL}
+public enum Time {HOUR, DAY, WEEK, MONTH, YEAR, ALL}
