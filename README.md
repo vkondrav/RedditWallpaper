@@ -25,3 +25,5 @@ You can move the slider to change the delay between wallpapers changing.
 The number of links to read before going back to the top can be set with the last field. Note that not all links can be read (I am working on getting more of them to work) but this means the program may skip some images if it doesn't understand the format.
 
 Once you have sorted the options above, simply press start and the program will run. The stop button will halt everything. (Keeping the last wallpaper as the desktop background).
+
+It is also worth noting the images will be positioned with the settings that the normal windows control panel settings have, for best results (in my opinion) try using the "fit" setting.
