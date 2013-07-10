@@ -2,8 +2,15 @@ RedditWallpaper
 ===============
 Created by Exote.
 
-How to Use
-----------
+Using the exe
+-------------
+
+I have not tested this extensively, but it does not need to install anything. It should find the most compatable version of Java on your computer (1.7 if you have it) and use that to launch the jar file it contains.
+
+There may be issues with running it with windows 8 and their overzealous firewall, but allow it through and it should run fine. No viruses, promise, check the code for yourself.
+
+Using the jar file
+------------------
 
 All of this has only been tested on Windows, because of the different methods needed to change the wallpapers on different OS I doubt it would work, but who knows...
 
